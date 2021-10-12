@@ -8,10 +8,17 @@ namespace FyndTaskOne
 {
     public class Program
     {
+        static void Main(string[] args)
+        {
+            Program p = new Program();
+            Console.WriteLine(p.ExtractData());
+        }
+
         public string ExtractData()
         {
             var html = GetFileData();
-            return ParseHtml(html);
+            var response= ParseHtml(html);
+            return response;
         }
 
         public string GetFileData()
