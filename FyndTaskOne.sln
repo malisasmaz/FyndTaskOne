@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FyndTaskOne", "NUnitTestProject1\FyndTaskOne.csproj", "{5DE4B7EF-2F34-4860-A8C1-C590C06A5F27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FyndTaskOne", "FyndTaskOne\FyndTaskOne.csproj", "{5DE4B7EF-2F34-4860-A8C1-C590C06A5F27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
